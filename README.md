@@ -1,8 +1,4 @@
-# HackForGood Hackathon 2022 (By Grab)
 
-## Theme: Open Format
-
-## Team Name: IDEATORS
 
 # Project Name: Drishti: AI based Spectacles for Visually Impaired people
 
@@ -51,6 +47,5 @@ Step 5: Web Cam will start working. We have 5 Modes, Initially Live-environment 
 Recognition Mode (i.e enter 1, 2, 3, 4 or 5 to switch between modes)<br>
 Step 6: Enter ESC button to end <br>
 
-### Website Link : http://dristi.rf.gd/
-### Youtube videos: https://youtu.be/ZR8VJvosMy0
+
     
